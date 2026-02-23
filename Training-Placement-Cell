@@ -1,0 +1,17 @@
+# Training & Placement Cell Management System
+
+## Technologies
+- PHP
+- MySQL
+- Apache (XAMPP)
+
+## Features
+- Student registration & login
+- Admin dashboard
+- Company & placement drive management
+
+## Setup
+1. Install XAMPP
+2. Copy project to htdocs
+3. Import database
+4. Run http://localhost/Training-placement
